@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "JustSingleOneBlock.aternos.me",
-    "port": 41284,
+    "ip": "MumbleSMP.aternos.me",
+    "port": 60093,
     "version": "1.21.11",
     "try-creative": false
   },
